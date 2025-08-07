@@ -1,13 +1,60 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog</title>
-    <link rel="stylesheet" href="/Blog/css/styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog Inglés</title>
+  <link rel="icon" type="image/png" href="/Blog/images/icon.png">
+  <link rel="stylesheet" href="/Blog/css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <h1>Holi</h1>
-    
+
+  <!-- Barra de navegación -->
+  <nav class="navbar">
+    <div class="navbar-container">
+      <a href="/index.html">
+        <img src="/Blog/images/icon.png" alt="Inicio" class="icono-redondo" />
+      </a>
+      <ul class="navbar-links">
+        <li><a href="/index.html">Inicio</a></li>
+        <li><a href="/Blog/articles/semana1/formula1_art2.html">Última noticia</a></li>
+        <li><a href="/Blog/semanas.html">Semanas</a></li>
+        <li><a href="https://github.com/SadisOfc/Blog-Ingles" target="_blank">GitHub</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Contenido principal -->
+  <div class="contenido">
+    <header>
+      <h1>Mi Blog</h1>
+      <p class="subtitulo">Pensamientos, artículos y cosas interesantes</p>
+    </header>
+
+    <main class="articulos">
+      <article>
+        <a href="/Blog/articles/semana1/primer-articulo.html">
+          <h2>Mi primer artículo</h2>
+          <p>Una breve introducción sobre este blog y lo que puedes esperar.</p>
+          <span class="fecha">6 de agosto de 2025</span>
+        </a>
+      </article>
+
+      <article>
+        <a href="/Blog/articles/semana1/formula1_art2.html">
+          <h2>F1: La película</h2>
+          <p>Rodaje, circuitos reales y locaciones de la producción.</p>
+          <span class="fecha">7 de agosto de 2025</span>
+        </a>
+      </article>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 - Hecho por chaepete</p>
+    </footer>
+  </div>
+
 </body>
 </html>
