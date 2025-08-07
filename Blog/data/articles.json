@@ -1,0 +1,331 @@
+{
+  "ultima": {
+    "titulo": "Último artículo",
+    "resumen": "",
+    "fecha": "En ruta deben agregar el path del último artículo que crean, o que debe estar en el blog según el calendario",
+    "ruta": "/Blog/articles/semana2/articulo2_2.html"
+  },
+
+  "semanas": {
+    "semana1": [
+      {
+        "titulo": "Semana 1, titulo 1",
+        "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+        "fecha": "6 de agosto de 2025",
+        "ruta": "/Blog/articles/semana1/articulo1_1.html",
+        "visible":true
+      },
+      {
+        "titulo": "Semana 1, titulo 2",
+        "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+        "fecha": "7 de agosto de 2025",
+        "ruta": "/Blog/articles/semana1/articulo2_1.html",
+        "visible":true
+      }
+    ],
+    "semana2": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana2/articulo1_2.html",
+        "visible":true
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana2/articulo2_2.html",
+        "visible":true
+      }
+    ],
+    "semana3": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana3/articulo1_3.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana3/articulo2_3.html",
+        "visible":false
+      }
+    ],
+    "semana4": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana4/articulo1_4.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana4/articulo2_4.html",
+        "visible":false
+      }
+    ],
+    "semana5": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana5/articulo1_5.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana5/articulo2_5.html",
+        "visible":false
+      }
+    ],
+    "semana6": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana6/articulo1_6.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana6/articulo2_6.html",
+        "visible":false
+      }
+    ],
+    "semana7": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana7/articulo1_7.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana7/articulo2_7.html",
+        "visible":false
+      }
+    ],
+    "semana8": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana8/articulo1_8.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana8/articulo2_8.html",
+        "visible":false
+      }
+    ],
+    "semana9": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana9/articulo1_9.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana9/articulo2_9.html",
+        "visible":false
+      }
+    ],
+    "semana10": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana10/articulo1_10.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana10/articulo2_10.html",
+        "visible":false
+      }
+    ],
+    "semana11": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana11/articulo1_11.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana11/articulo2_11.html",
+        "visible":false
+      }
+    ],
+    "semana12": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana12/articulo1_12.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana12/articulo2_12.html",
+        "visible":false
+      }
+    ],
+    "semana13": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana13/articulo1_13.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana13/articulo2_13.html",
+        "visible":false
+      }
+    ],
+    "semana14": [
+     {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana14/articulo1_14.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana14/articulo2_14.html",
+        "visible":false
+      }
+    ],
+    "semana15": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana15/articulo1_15.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana15/articulo2_15.html",
+        "visible":false
+      }
+    ],
+    "semana16": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana15/articulo1_16.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana16/articulo2_16.html",
+        "visible":false
+      }
+    ],
+    "semana17": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana17/articulo1_17.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana17/articulo2_17.html",
+        "visible":false
+      }
+    ],
+    "semana18": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana18/articulo1_18.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana18/articulo2_18.html",
+        "visible":false
+      }
+    ],
+    "semana19": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana19/articulo1_19.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana19/articulo2_19.html",
+        "visible":false
+      }
+    ],
+    "semana20": [
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana20/articulo1_20.html",
+        "visible":false
+      },
+      {
+        "titulo": "Por verse",
+        "resumen": "Incompleto",
+        "fecha": "Unknown",
+        "ruta": "/Blog/articles/semana20/articulo2_20.html",
+        "visible":false
+      }
+    ]
+  }
+}

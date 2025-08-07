@@ -1,0 +1,341 @@
+{
+  "articulos": [
+    {
+      "titulo": "Semana 1, Titulo 1",
+      "resumen": "Resumen",
+      "fecha": "2025-08-01",
+      "ruta": "/Blog/articles/semana1/articulo1_1.html",
+      "visible": true
+    }
+    ,
+    {
+      "titulo": "Semana 1 titulo 2",
+      "resumen": "Resumen",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana1/articulo2_1.html",
+      "visible": true
+    }
+    ,
+
+    {
+      "titulo": "Semana 2, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana2/articulo1_2.html",
+      "visible": true
+    }
+    ,
+    {
+      "titulo": "Semana 2, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana2/articulo2_2.html",
+      "visible": true
+    }
+    ,
+
+    {
+      "titulo": "Semana 3, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana3/articulo1_3.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 3, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana2/articulo2_3.html",
+      "visible": false
+    },
+
+    {
+      "titulo": "Semana 4, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana4/articulo1_4.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 4, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana4/articulo2_4.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 5, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana5/articulo1_5.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 5, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana5/articulo2_5.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 6, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana6/articulo1_6.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 6, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana6/articulo2_6.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 7, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana7/articulo1_7.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 7, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana7/articulo2_7.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 8, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana8/articulo1_8.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 8, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana8/articulo2_8.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 9, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana9/articulo1_9.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 9, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana9/articulo2_9.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 10, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana10/articulo1_10.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 10, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana10/articulo2_10.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 11, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana11/articulo1_11.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 11, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana11/articulo2_11.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 12, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana12/articulo1_12.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 12, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana12/articulo2_12.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 13, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana13/articulo1_13.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 13, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana13/articulo2_13.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 14, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana14/articulo1_14.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 14, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana14/articulo2_14.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 15, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana15/articulo1_15.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 15, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana15/articulo2_15.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 16, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana16/articulo1_16.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 16, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana16/articulo2_16.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 17, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana17/articulo1_17.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 17, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana17/articulo2_17.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 18, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana18/articulo1_18.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 18, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana18/articulo2_18.html",
+      "visible": false
+    }
+    ,
+
+    {
+      "titulo": "Semana 19, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana19/articulo1_19.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 19, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana19/articulo2_19.html",
+      "visible": false
+    },
+
+    {
+      "titulo": "Semana 20, titulo 1",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana20/articulo1_20.html",
+      "visible": false
+    }
+    ,
+    {
+      "titulo": "Semana 20, titulo 2",
+      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "fecha": "2025-08-06",
+      "ruta": "/Blog/articles/semana20/articulo2_20.html",
+      "visible": false
+    }
+    
+  ]
+}
