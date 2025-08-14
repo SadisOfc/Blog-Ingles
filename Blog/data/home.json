@@ -1,9 +1,9 @@
 {
   "articulos": [
     {
-      "titulo": "Semana 1, Titulo 1",
-      "resumen": "Resumen",
-      "fecha": "2025-08-01",
+      "titulo": "Week 1. Language filters on the internet",
+      "resumen": "How cultures and languages change the information we get on the internet",
+      "fecha": "2025-08-08",
       "ruta": "/Blog/articles/semana1/articulo1_1.html",
       "visible": true
     }
