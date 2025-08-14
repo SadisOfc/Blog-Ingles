@@ -9,9 +9,9 @@
   "semanas": {
     "semana1": [
       {
-        "titulo": "Semana 1, titulo 1",
-        "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-        "fecha": "6 de agosto de 2025",
+        "titulo": "Language filters on the internet",
+        "resumen": "How cultures and languages change the information we get on the internet",
+        "fecha": "2025-08-06",
         "ruta": "/Blog/articles/semana1/articulo1_1.html",
         "visible":true
       },
@@ -25,16 +25,16 @@
     ],
     "semana2": [
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "Use of technology by teachers in classrooms",
+        "resumen": "Factors influencing teachers’ technology adoption in technology-rich classrooms: model development and test",
+        "fecha": "2025-08-11",
         "ruta": "/Blog/articles/semana2/articulo1_2.html",
         "visible":true
       },
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "Virtual reality and its applications",
+        "resumen": "Virtual reality in skill development through user experience and technology advancements",
+        "fecha": "2025-08-15",
         "ruta": "/Blog/articles/semana2/articulo2_2.html",
         "visible":true
       }
