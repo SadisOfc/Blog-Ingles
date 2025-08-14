@@ -5,7 +5,8 @@
       "resumen": "How cultures and languages change the information we get on the internet",
       "fecha": "2025-08-06",
       "ruta": "/Blog/articles/semana1/articulo1_1.html",
-      "visible": true
+      "visible": true,
+      "imagen": "/Blog/images/semana1/librro.png"
     }
     ,
     {
@@ -22,7 +23,8 @@
       "resumen": "Factors influencing teachers’ technology adoption in technology-rich classrooms: model development and test",
       "fecha": "2025-08-11",
       "ruta": "/Blog/articles/semana2/articulo1_2.html",
-      "visible": true
+      "visible": true,
+      "imagen": "/Blog/images/semana2/article1.png"
     }
     ,
     {
@@ -30,7 +32,8 @@
       "resumen": "Virtual reality in skill development through user experience and technology advancements",
       "fecha": "2025-08-15",
       "ruta": "/Blog/articles/semana2/articulo2_2.html",
-      "visible": true
+      "visible": true,
+      "imagen": "/Blog/images/semana2/articulo2.png"
     }
     ,
 
