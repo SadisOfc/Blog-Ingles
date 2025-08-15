@@ -312,6 +312,46 @@ footer {
   outline: none;
 }
 
+/* Quitar subrayado y color azul en sección recomendados */
+.recomendados a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.recomendados a:hover {
+  color: #fff; /* O el color que uses para resaltar */
+}
+
+/* Estilo para links dentro de los artículos */
+.contenido article .contenido a {
+  color: #4da3ff; /* Color que resalte sobre el fondo oscuro */
+  text-decoration: none;
+}
+
+.contenido article .contenido a:hover {
+  color: #80c1ff;
+  text-decoration: underline;
+}
+
+/* Más espacio entre párrafos y títulos dentro del contenido del artículo */
+.contenido article .contenido p {
+  margin-bottom: 1.4rem;
+  line-height: 1.8;
+}
+
+.contenido article .contenido h1,
+.contenido article .contenido h2,
+.contenido article .contenido h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+/* Más espacio entre artículos recomendados */
+.recomendados article {
+  margin-bottom: 50px;
+}
+
+
 
 
 @media (max-width: 768px) {
