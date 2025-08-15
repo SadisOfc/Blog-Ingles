@@ -3,7 +3,7 @@
     "titulo": "Último artículo",
     "resumen": "",
     "fecha": "En ruta deben agregar el path del último artículo que crean, o que debe estar en el blog según el calendario",
-    "ruta": "/Blog/articles/semana2/articulo2_2.html"
+    "ruta": "/Blog/articles/semana3/articulo1_3.html"
   },
 
   "semanas": {
@@ -41,16 +41,16 @@
     ],
     "semana3": [
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "Chat Control: Mass Surveillance in the EU",
+        "resumen": "The controversial proposal to automatically scan private messages threatens privacy and could set a global precedent",
+        "fecha": "2025-08-18",
         "ruta": "/Blog/articles/semana3/articulo1_3.html",
-        "visible":false
+        "visible":true
       },
       {
         "titulo": "Por verse",
         "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "fecha": "2025-08-19",
         "ruta": "/Blog/articles/semana3/articulo2_3.html",
         "visible":false
       }
