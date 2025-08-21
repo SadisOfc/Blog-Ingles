@@ -47,11 +47,11 @@
     }
     ,
     {
-      "titulo": "Semana 3, titulo 2",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
-      "ruta": "/Blog/articles/semana2/articulo2_3.html",
-      "visible": false
+      "titulo": "Week 3. Russia has not created a cure for cancer",
+      "resumen": "what is really known about the experimental vaccine?",
+      "fecha": "2025-08-21",
+      "ruta": "/Blog/articles/semana3/articulo2_3.html",
+      "visible": true
     },
 
     {

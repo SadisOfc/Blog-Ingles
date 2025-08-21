@@ -3,7 +3,7 @@
     "titulo": "Último artículo",
     "resumen": "",
     "fecha": "En ruta deben agregar el path del último artículo que crean, o que debe estar en el blog según el calendario",
-    "ruta": "/Blog/articles/semana3/articulo1_3.html"
+    "ruta": "/Blog/articles/semana3/articulo2_3.html"
   },
 
   "semanas": {
@@ -48,11 +48,11 @@
         "visible":true
       },
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "2025-08-19",
+        "titulo": "Russia has not created a cure for cancer",
+        "resumen": "what is really known about the experimental vaccine?",
+        "fecha": "2025-08-21",
         "ruta": "/Blog/articles/semana3/articulo2_3.html",
-        "visible":false
+        "visible":true
       }
     ],
     "semana4": [
