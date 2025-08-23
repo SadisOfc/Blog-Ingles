@@ -3,51 +3,55 @@
     {
       "titulo": "Week 1. Language filters on the internet",
       "resumen": "How cultures and languages change the information we get on the internet",
-      "fecha": "2025-08-08",
+      "fecha": "2025-08-06",
       "ruta": "/Blog/articles/semana1/articulo1_1.html",
-      "visible": true
+      "visible": true,
+      "imagen": "/Blog/images/semana1/librro.png"
     }
     ,
     {
-      "titulo": "Semana 1 titulo 2",
-      "resumen": "Resumen",
-      "fecha": "2025-08-06",
+      "titulo": "Week 1. Russia vs Ukraine: USA and NATO interventions",
+      "resumen": "Some movements and news over this war",
+      "fecha": "2025-08-09",
       "ruta": "/Blog/articles/semana1/articulo2_1.html",
       "visible": true
     }
     ,
 
     {
-      "titulo": "Semana 2, titulo 1",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 2. Use of technology by teachers in classrooms",
+      "resumen": "Factors influencing teachers’ technology adoption in technology-rich classrooms: model development and test",
+      "fecha": "2025-08-11",
       "ruta": "/Blog/articles/semana2/articulo1_2.html",
-      "visible": true
+      "visible": true,
+      "imagen": "/Blog/images/semana2/article1.png"
     }
     ,
     {
-      "titulo": "Semana 2, titulo 2",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 2. Virtual reality and its applications",
+      "resumen": "Virtual reality in skill development through user experience and technology advancements",
+      "fecha": "2025-08-15",
       "ruta": "/Blog/articles/semana2/articulo2_2.html",
-      "visible": true
+      "visible": true,
+      "imagen": "/Blog/images/semana2/articulo2.png"
     }
     ,
 
     {
-      "titulo": "Semana 3, titulo 1",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 3. Chat Control: Mass Surveillance in the EU",
+      "resumen": "The controversial proposal to automatically scan private messages threatens privacy and could set a global precedent",
+      "fecha": "2025-08-18",
       "ruta": "/Blog/articles/semana3/articulo1_3.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/images/semana3/2.jpeg"
     }
     ,
     {
-      "titulo": "Semana 3, titulo 2",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
-      "ruta": "/Blog/articles/semana2/articulo2_3.html",
-      "visible": false
+      "titulo": "Week 3. Russia has not created a cure for cancer",
+      "resumen": "what is really known about the experimental vaccine?",
+      "fecha": "2025-08-21",
+      "ruta": "/Blog/articles/semana3/articulo2_3.html",
+      "visible": true
     },
 
     {
