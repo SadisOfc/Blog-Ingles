@@ -16,9 +16,9 @@ body {
 
 /* Contenido centrado */
 .contenido {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
+  max-width: none;
+  margin: 0;
+  padding: 20px;
 }
 
 /* Navbar */
@@ -255,6 +255,104 @@ footer {
   font-size: 0.9rem;
   color: #888;
 }
+.layout-articulo {
+  display: grid;
+  grid-template-columns: minmax(600px, 900px) 300px; /* Artículo máx 900px, mínimo 600px */
+  justify-content: center; /* Centra la grilla en la pantalla */
+  gap: 30px;
+}
+
+.contenido-articulo {
+  background: rgba(0, 0, 0, 0.9);
+  padding: 25px;
+  border-radius: 6px;
+}
+
+.recomendados {
+  background: rgba(0, 0, 0, 0.9);
+  padding: 15px;
+  
+  border-radius: 6px;
+}
+
+.recomendados h2 {
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.recomendados article {
+  margin-bottom: 20px;
+  
+}
+
+.recomendados img {
+  color: white;
+  text-decoration: none;
+  width: 100%;
+  height: auto;
+  display: block;
+  outline: none;
+  border-radius: 4px;
+}
+
+.recomendados h3 {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  outline: none;
+  margin: 8px 0 0;
+}
+.recomendados p {
+  color: #ccc;
+  font-size: 0.9rem;
+  text-decoration: none;
+  margin: 5px 0 0;
+  outline: none;
+}
+
+/* Quitar subrayado y color azul en sección recomendados */
+.recomendados a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.recomendados a:hover {
+  color: #fff; /* O el color que uses para resaltar */
+}
+
+/* Estilo para links dentro de los artículos */
+.contenido article .contenido a {
+  color: #4da3ff; /* Color que resalte sobre el fondo oscuro */
+  text-decoration: none;
+}
+
+.contenido article .contenido a:hover {
+  color: #80c1ff;
+  text-decoration: underline;
+}
+
+/* Más espacio entre párrafos y títulos dentro del contenido del artículo */
+.contenido article .contenido p {
+  margin-bottom: 1.4rem;
+  line-height: 1.8;
+}
+
+.contenido article .contenido h1,
+.contenido article .contenido h2,
+.contenido article .contenido h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+/* Más espacio entre artículos recomendados */
+.recomendados article {
+  margin-bottom: 50px;
+}
+
+
+
 
 @media (max-width: 768px) {
   .galeria img {
@@ -262,3 +360,4 @@ footer {
     max-width: 100%;
   }
 }
+
