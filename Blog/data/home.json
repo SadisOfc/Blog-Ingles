@@ -52,23 +52,26 @@
       "resumen": "what is really known about the experimental vaccine?",
       "fecha": "2025-08-21",
       "ruta": "/Blog/articles/semana3/articulo2_3.html",
-      "visible": true
+      "visible": true,
+      "imagen": "/Blog/images/semana3/cancercito.jpg"
     },
 
     {
-      "titulo": "Semana 4, titulo 1",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 4. Academic Review, The Shortage of Apprentices in Germany",
+      "resumen": "Apprentices wanted, Germany lacks young talent",
+      "fecha": "2025-08-25",
       "ruta": "/Blog/articles/semana4/articulo1_4.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/images/semana4/a1_1.jpg"
     }
     ,
     {
-      "titulo": "Semana 4, titulo 2",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 4. Russia’s Position on the Deployment of Warships to Venezuela",
+      "resumen": "Russia expresses its stance on the deployment of warships to Venezuela and sends a strong message",
+      "fecha": "2025-08-30",
       "ruta": "/Blog/articles/semana4/articulo2_4.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/images/semana4/a2.avif"
     }
     ,
 
