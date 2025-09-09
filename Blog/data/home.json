@@ -76,19 +76,21 @@
     ,
 
     {
-      "titulo": "Semana 5, titulo 1",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 5. Innovative treatment for psychiatric disorders",
+      "resumen": "Potential applications of temporal interference deep brain stimulation for the treatment of transdiagnostic conditions in psychiatry",
+      "fecha": "2025-09-05",
       "ruta": "/Blog/articles/semana5/articulo1_5.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/images/semana5/1.png"
     }
     ,
     {
-      "titulo": "Semana 5, titulo 2",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 5. Use of robots in dentistry",
+      "resumen": "Tiny robots used to treat sensitive teeth",
+      "fecha": "2025-09-05",
       "ruta": "/Blog/articles/semana5/articulo2_5.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/images/semana5/2.1.png"
     }
     ,
 
