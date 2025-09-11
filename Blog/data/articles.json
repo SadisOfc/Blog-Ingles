@@ -3,7 +3,7 @@
     "titulo": "Último artículo",
     "resumen": "",
     "fecha": "En ruta deben agregar el path del último artículo que crean, o que debe estar en el blog según el calendario",
-    "ruta": "/Blog/articles/semana3/articulo2_3.html"
+    "ruta": "/Blog/articles/semana5/articulo2_5.html"
   },
 
   "semanas": {
@@ -57,34 +57,34 @@
     ],
     "semana4": [
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "Academic Review, The Shortage of Apprentices in Germany",
+        "resumen": "Apprentices wanted, Germany lacks young talent",
+        "fecha": "2025-08-25",
         "ruta": "/Blog/articles/semana4/articulo1_4.html",
-        "visible":false
+        "visible":true
       },
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "Russia’s Position on the Deployment of Warships to Venezuela",
+        "resumen": "Russia expresses its stance on the deployment of warships to Venezuela and sends a strong message",
+        "fecha": "2025-08-30",
         "ruta": "/Blog/articles/semana4/articulo2_4.html",
-        "visible":false
+        "visible":true
       }
     ],
     "semana5": [
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "Innovative treatment for psychiatric disorders",
+        "resumen": "Potential applications of temporal interference deep brain stimulation for the treatment of transdiagnostic conditions in psychiatry",
+        "fecha": "2025-09-05",
         "ruta": "/Blog/articles/semana5/articulo1_5.html",
-        "visible":false
+        "visible":true
       },
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "Use of robots in dentistry",
+        "resumen": "Tiny robots used to treat sensitive teeth",
+        "fecha": "2025-09-05",
         "ruta": "/Blog/articles/semana5/articulo2_5.html",
-        "visible":false
+        "visible":true
       }
     ],
     "semana6": [
