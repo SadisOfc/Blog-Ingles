@@ -89,11 +89,11 @@
     ],
     "semana6": [
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "The identified remains of a 72 years old grandmother were found",
+        "resumen": "How with the advances in DNA technology, the remains of a woman were identified and returned to her family",
+        "fecha": "2025-09-10",
         "ruta": "/Blog/articles/semana6/articulo1_6.html",
-        "visible":false
+        "visible":true
       },
       {
         "titulo": "Por verse",

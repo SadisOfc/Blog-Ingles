@@ -95,11 +95,13 @@
     ,
 
     {
-      "titulo": "Semana 6, titulo 1",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "titulo": "Week 6, The identified remains of a 72 years old grandmother were found ",
+      "resumen": "How with the advances in DNA technology, the remains of a woman were identified and returned to her family",
       "fecha": "2025-08-06",
       "ruta": "/Blog/articles/semana6/articulo1_6.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/imagenes/semana6/viejitabrr.png"
+
     }
     ,
     {
