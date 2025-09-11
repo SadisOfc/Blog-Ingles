@@ -97,7 +97,7 @@
     {
       "titulo": "Week 6, The identified remains of a 72 years old grandmother were found ",
       "resumen": "How with the advances in DNA technology, the remains of a woman were identified and returned to her family",
-      "fecha": "2025-08-06",
+      "fecha": "2025-09-10",
       "ruta": "/Blog/articles/semana6/articulo1_6.html",
       "visible": true,
       "imagen": "/Blog/imagenes/semana6/viejitabrr.png"
@@ -105,11 +105,12 @@
     }
     ,
     {
-      "titulo": "Semana 6, titulo 2",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 6, Parental control in Chatgpt for the youngest. Soon than we expect",
+      "resumen": "Due to some tragic events, openAI has made a decision over the teenagers who use the assistant for emotional support",
+      "fecha": "2025-09-11",
       "ruta": "/Blog/articles/semana6/articulo2_6.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/imagenes/semana6/robocito.png"
     }
     ,
 
