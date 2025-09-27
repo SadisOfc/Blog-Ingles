@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Aquí va el título de la pestaña</title>
+  <title>Gemini Arrives in Chrome</title>
   <link rel="icon" type="image/png" href="/Blog/images/icon.png" />
   <link rel="stylesheet" href="/Blog/css/style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet" />
@@ -25,32 +25,42 @@
     </div>
   </nav>
 
+    <div class="contenido layout-articulo">
   <!-- CONTENIDO -->
   <div class="contenido">
     <article>
       <header class="art-header">
-        <h1>Titulo del artículo cabron. Aquí</h1>
+        <h1>Google’s AI promises to boost productivity inside the browser, but raises concerns about privacy, errors, and prompt injection risks</h1>
         <p class="meta">
           <a href="/index.html">
             <img src="/Blog/images/icon.png" alt="Ícono decorativo" class="icono-articulo">
           </a>
-          Author: Victor Manuel Rodriguez · <a href="https://github.com/cesardiaz-utp" target="_blank">Source</a>
+          Author: Juan Pablo Dueñas · <a href="https://www.elnacional.com/2025/09/gemini-se-integra-a-chrome-la-ia-estara-en-el-navegador/" target="_blank">Source: El Nacional</a>
       </header>
 
       <section class="galeria">
-        <img src="/Blog/images/ArticuloIncompleto.jpg" alt="Circuito de Silverstone">
+
+        <img src="/Blog/images/semana8/Gemini.png" alt="q">
       </section>
 
-      <section class="contenido">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut orci eu justo mollis aliquet. Integer vehicula leo id arcu ultricies, non tincidunt nisl interdum...</p>
-        <p>Vivamus luctus nisl vel sapien sagittis, sit amet finibus orci scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce scelerisque ultricies massa, vitae lacinia risus...</p>
-      </section>
+      <section class = "contenido">
 
-      <footer class="art-footer">
-        <p><a href="/index.html">← Volver al Inicio</a></p>
-      </footer>
+        <p>This week, Google began the implementation of its artificial intelligence system, Gemini, in the Chrome web browser. For now, tests are being conducted in the United States, with the promise of a gradual expansion to the rest of the world. The company’s bet is that users will be able to optimize repetitive tasks, since the AI will be able to act as an agent within web pages.</p>
+
+        <p>At first glance, this seems to be a great step forward for everyday productivity. However, the integration also raises questions and risks. For Gemini to function, it needs to analyze web content and access user data, which opens up privacy concerns. Will sensitive data be stored? How far will this access go?</p>
+
+        <p>Another challenge for Google is the risk of errors in automation. These tools still depend heavily on context, which could lead to technical problems such as duplicated orders, placing incorrect orders, or failing to execute tasks.</p>
+
+        <p>Finally, one of the most serious concerns is the vulnerability to so called prompt injection; hidden messages in websites, emails, or documents designed to manipulate the AI without the user noticing. This could be exploited by malicious actors to obtain information such as email addresses, browsing history, or even billing data.</p>
+      </section>
     </article>
   </div>
+<aside class="recomendados">
+      <h2>Recommended</h2>
+      <div id="lista-recomendados"></div>
+    </aside>
+</div>
 <script src="/Blog/js/cargar-articulos.js"></script>
+<script src="/Blog/js/recomendados.js"></script>
 </body>
 </html>

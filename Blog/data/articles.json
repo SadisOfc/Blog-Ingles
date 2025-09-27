@@ -3,7 +3,7 @@
     "titulo": "Último artículo",
     "resumen": "",
     "fecha": "En ruta deben agregar el path del último artículo que crean, o que debe estar en el blog según el calendario",
-    "ruta": "/Blog/articles/semana7/articulo2_7.html"
+    "ruta": "/Blog/articles/semana8/articulo2_8.html"
   },
 
   "semanas": {
@@ -121,18 +121,18 @@
     ],
     "semana8": [
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "Gemini Arrives in Chrome",
+        "resumen": "Google’s AI promises to boost productivity inside the browser, but raises concerns about privacy, errors, and prompt injection risks",
+        "fecha": "2025-09-27",
         "ruta": "/Blog/articles/semana8/articulo1_8.html",
-        "visible":false
+        "visible":true
       },
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "China Bans Nvidia Chips Amid Tech War With the U.S",
+        "resumen": "China blocks U.S. semiconductors, pushing local firms to boost their own AI chips",
+        "fecha": "2025-09-27",
         "ruta": "/Blog/articles/semana8/articulo2_8.html",
-        "visible":false
+        "visible":true
       }
     ],
     "semana9": [

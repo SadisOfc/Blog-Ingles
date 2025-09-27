@@ -134,19 +134,21 @@
     ,
 
     {
-      "titulo": "Semana 8, titulo 1",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 8. Gemini Arrives in Chrome",
+      "resumen": "Google’s AI promises to boost productivity inside the browser, but raises concerns about privacy, errors, and prompt injection risks",
+      "fecha": "2025-09-27",
       "ruta": "/Blog/articles/semana8/articulo1_8.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/images/semana8/Gemini.png"
     }
     ,
     {
-      "titulo": "Semana 8, titulo 2",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 8. China Bans Nvidia Chips Amid Tech War With the U.S",
+      "resumen": "China blocks U.S. semiconductors, pushing local firms to boost their own AI chips",
+      "fecha": "2025-09-27",
       "ruta": "/Blog/articles/semana8/articulo2_8.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/images/semana8/Nvidia.png"
     }
     ,
 
