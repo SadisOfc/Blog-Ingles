@@ -3,7 +3,7 @@
     "titulo": "Último artículo",
     "resumen": "",
     "fecha": "En ruta deben agregar el path del último artículo que crean, o que debe estar en el blog según el calendario",
-    "ruta": "/Blog/articles/semana5/articulo2_5.html"
+    "ruta": "/Blog/articles/semana7/articulo2_7.html"
   },
 
   "semanas": {
@@ -105,18 +105,18 @@
     ],
     "semana7": [
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "Dialoguing with Fungi",
+        "resumen": "An Invitation to Understand Mycelium at the Materialidades Conjuntas Openlab",
+        "fecha": "2025-09-16",
         "ruta": "/Blog/articles/semana7/articulo1_7.html",
-        "visible":false
+        "visible":true
       },
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "titulo": "Colombia Faces a Birthrate Crisis",
+        "resumen": "Colombia Faces a Birthrate Crisis: Births Drop Over 30% in a Decade",
+        "fecha": "2025-09-17",
         "ruta": "/Blog/articles/semana7/articulo2_7.html",
-        "visible":false
+        "visible":true
       }
     ],
     "semana8": [

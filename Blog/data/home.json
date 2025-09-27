@@ -95,39 +95,41 @@
     ,
 
     {
-      "titulo": "Week 6, The identified remains of a 72 years old grandmother were found ",
+      "titulo": "Week 6. The identified remains of a 72 years old grandmother were found ",
       "resumen": "How with the advances in DNA technology, the remains of a woman were identified and returned to her family",
       "fecha": "2025-09-10",
       "ruta": "/Blog/articles/semana6/articulo1_6.html",
       "visible": true,
-      "imagen": "/Blog/imagenes/semana6/viejitabrr.png"
+      "imagen": "/Blog/images/semana6/viejitabrr.png"
 
     }
     ,
     {
-      "titulo": "Week 6, Parental control in Chatgpt for the youngest. Soon than we expect",
+      "titulo": "Week 6. Parental control in Chatgpt for the youngest. Soon than we expect",
       "resumen": "Due to some tragic events, openAI has made a decision over the teenagers who use the assistant for emotional support",
       "fecha": "2025-09-11",
       "ruta": "/Blog/articles/semana6/articulo2_6.html",
       "visible": true,
-      "imagen": "/Blog/imagenes/semana6/robocito.png"
+      "imagen": "/Blog/images/semana6/robocito.png"
     }
     ,
 
     {
-      "titulo": "Semana 7, titulo 1",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 7. Dialoguing with Fungi",
+      "resumen": "An Invitation to Understand Mycelium at the Materialidades Conjuntas Openlab",
+      "fecha": "2025-09-16",
       "ruta": "/Blog/articles/semana7/articulo1_7.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/images/semana7/unombrecito.png"
     }
     ,
     {
-      "titulo": "Semana 7, titulo 2",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
-      "fecha": "2025-08-06",
+      "titulo": "Week 7. Colombia Faces a Birthrate Crisis",
+      "resumen": "Colombia Faces a Birthrate Crisis: Births Drop Over 30% in a Decade",
+      "fecha": "2025-09-17",
       "ruta": "/Blog/articles/semana7/articulo2_7.html",
-      "visible": false
+      "visible": true,
+      "imagen": "/Blog/images/semana7/niño.png"
     }
     ,
 
