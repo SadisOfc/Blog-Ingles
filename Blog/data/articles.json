@@ -135,18 +135,35 @@
         "visible":true
       }
     ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     "semana9": [
       {
         "titulo": "Por verse",
         "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "fecha": "2025-10-01",
         "ruta": "/Blog/articles/semana9/articulo1_9.html",
         "visible":false
       },
       {
         "titulo": "Por verse",
         "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "fecha": "2025-10-02",
         "ruta": "/Blog/articles/semana9/articulo2_9.html",
         "visible":false
       }
@@ -155,18 +172,22 @@
       {
         "titulo": "Por verse",
         "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "fecha": "2025-10-07",
         "ruta": "/Blog/articles/semana10/articulo1_10.html",
         "visible":false
       },
       {
         "titulo": "Por verse",
         "resumen": "Incompleto",
-        "fecha": "Unknown",
+        "fecha": "2025-10-10",
         "ruta": "/Blog/articles/semana10/articulo2_10.html",
         "visible":false
       }
     ],
+
+
+
+    
     "semana11": [
       {
         "titulo": "Por verse",
