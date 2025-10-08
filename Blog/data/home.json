@@ -156,20 +156,20 @@
     
 
     {
-      "titulo": "Semana 9, titulo 1",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "titulo": "OpenAI Partners with AMD to Power Next Generation AI Models",
+      "resumen": "OpenAI Strikes Major Deal with AMD for High Performance Chips, Securing Up to 6 Gigawatts of AI Computing Power by 2026",
       "fecha": "2025-10-01",
       "ruta": "/Blog/articles/semana9/articulo1_9.html",
-      "visible": false,
+      "visible": true,
       "imagen": "/Blog/images/semana9/openai.png"
     }
     ,
     {
-      "titulo": "Semana 9, titulo 2",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "titulo": "Major npm Supply Chain Attack Hits 2 Billion Weekly Downloads",
+      "resumen": "Hackers Breach npm Developer Account and Inject Malicious Code into 18 Popular Packages with Over 2 Billion Weekly Downloads",
       "fecha": "2025-10-02",
       "ruta": "/Blog/articles/semana9/articulo2_9.html",
-      "visible": false,
+      "visible": true,
       "imagen": "/Blog/images/semana9/npm.png"
     }
     ,

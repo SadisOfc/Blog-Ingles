@@ -3,7 +3,7 @@
     "titulo": "Último artículo",
     "resumen": "",
     "fecha": "En ruta deben agregar el path del último artículo que crean, o que debe estar en el blog según el calendario",
-    "ruta": "/Blog/articles/semana8/articulo2_8.html"
+    "ruta": "/Blog/articles/semana9/articulo2_9.html"
   },
 
   "semanas": {
@@ -154,18 +154,18 @@
 
     "semana9": [
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
+        "titulo": "OpenAI Partners with AMD to Power Next Generation AI Models",
+        "resumen": "OpenAI Strikes Major Deal with AMD for High Performance Chips, Securing Up to 6 Gigawatts of AI Computing Power by 2026",
         "fecha": "2025-10-01",
         "ruta": "/Blog/articles/semana9/articulo1_9.html",
         "visible":false
       },
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
+        "titulo": "Major npm Supply Chain Attack Hits 2 Billion Weekly Downloads",
+        "resumen": "IHackers Breach npm Developer Account and Inject Malicious Code into 18 Popular Packages with Over 2 Billion Weekly Downloads",
         "fecha": "2025-10-02",
         "ruta": "/Blog/articles/semana9/articulo2_9.html",
-        "visible":false
+        "visible":true
       }
     ],
     "semana10": [
