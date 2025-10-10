@@ -6,7 +6,7 @@
       "fecha": "2025-08-06",
       "ruta": "/Blog/articles/semana1/articulo1_1.html",
       "visible": true,
-      "imagen": "/Blog/images/semana1/librro.png"
+      "imagen": "/Blog/images/semana1/librro.webp"
     }
     ,
     {
@@ -15,7 +15,7 @@
       "fecha": "2025-08-09",
       "ruta": "/Blog/articles/semana1/articulo2_1.html",
       "visible": true,
-      "imagen": "/Blog/images/semana1/balazo.png"
+      "imagen": "/Blog/images/semana1/balazo.webp"
     }
     ,
 
@@ -25,7 +25,7 @@
       "fecha": "2025-08-11",
       "ruta": "/Blog/articles/semana2/articulo1_2.html",
       "visible": true,
-      "imagen": "/Blog/images/semana2/article1.png"
+      "imagen": "/Blog/images/semana2/article1.webp"
     }
     ,
     {
@@ -34,7 +34,7 @@
       "fecha": "2025-08-15",
       "ruta": "/Blog/articles/semana2/articulo2_2.html",
       "visible": true,
-      "imagen": "/Blog/images/semana2/articulo2.png"
+      "imagen": "/Blog/images/semana2/articulo2.webp"
     }
     ,
 
@@ -44,7 +44,7 @@
       "fecha": "2025-08-18",
       "ruta": "/Blog/articles/semana3/articulo1_3.html",
       "visible": true,
-      "imagen": "/Blog/images/semana3/2.jpeg"
+      "imagen": "/Blog/images/semana3/2.webp"
     }
     ,
     {
@@ -53,7 +53,7 @@
       "fecha": "2025-08-21",
       "ruta": "/Blog/articles/semana3/articulo2_3.html",
       "visible": true,
-      "imagen": "/Blog/images/semana3/cancercito.jpg"
+      "imagen": "/Blog/images/semana3/cancercito.webp"
     },
 
     {
@@ -62,7 +62,7 @@
       "fecha": "2025-08-25",
       "ruta": "/Blog/articles/semana4/articulo1_4.html",
       "visible": true,
-      "imagen": "/Blog/images/semana4/a1_1.jpg"
+      "imagen": "/Blog/images/semana4/a1_1.webp"
     }
     ,
     {
@@ -71,7 +71,7 @@
       "fecha": "2025-08-30",
       "ruta": "/Blog/articles/semana4/articulo2_4.html",
       "visible": true,
-      "imagen": "/Blog/images/semana4/a2.avif"
+      "imagen": "/Blog/images/semana4/a2.webp"
     }
     ,
 
@@ -81,7 +81,7 @@
       "fecha": "2025-09-05",
       "ruta": "/Blog/articles/semana5/articulo1_5.html",
       "visible": true,
-      "imagen": "/Blog/images/semana5/1.png"
+      "imagen": "/Blog/images/semana5/1.webp"
     }
     ,
     {
@@ -90,7 +90,7 @@
       "fecha": "2025-09-05",
       "ruta": "/Blog/articles/semana5/articulo2_5.html",
       "visible": true,
-      "imagen": "/Blog/images/semana5/2.1.png"
+      "imagen": "/Blog/images/semana5/2.1.webp"
     }
     ,
 
@@ -100,7 +100,7 @@
       "fecha": "2025-09-10",
       "ruta": "/Blog/articles/semana6/articulo1_6.html",
       "visible": true,
-      "imagen": "/Blog/images/semana6/viejitabrr.png"
+      "imagen": "/Blog/images/semana6/viejitabrr.webp"
 
     }
     ,
@@ -110,7 +110,7 @@
       "fecha": "2025-09-11",
       "ruta": "/Blog/articles/semana6/articulo2_6.html",
       "visible": true,
-      "imagen": "/Blog/images/semana6/robocito.png"
+      "imagen": "/Blog/images/semana6/robocito.webp"
     }
     ,
 
@@ -120,7 +120,7 @@
       "fecha": "2025-09-16",
       "ruta": "/Blog/articles/semana7/articulo1_7.html",
       "visible": true,
-      "imagen": "/Blog/images/semana7/unombrecito.png"
+      "imagen": "/Blog/images/semana7/unombrecito.webp"
     }
     ,
     {
@@ -129,7 +129,7 @@
       "fecha": "2025-09-17",
       "ruta": "/Blog/articles/semana7/articulo2_7.html",
       "visible": true,
-      "imagen": "/Blog/images/semana7/niño.png"
+      "imagen": "/Blog/images/semana7/niño.webp"
     }
     ,
 
@@ -139,7 +139,7 @@
       "fecha": "2025-09-27",
       "ruta": "/Blog/articles/semana8/articulo1_8.html",
       "visible": true,
-      "imagen": "/Blog/images/semana8/Gemini.png"
+      "imagen": "/Blog/images/semana8/Gemini.webp"
     }
     ,
     {
@@ -148,7 +148,7 @@
       "fecha": "2025-09-27",
       "ruta": "/Blog/articles/semana8/articulo2_8.html",
       "visible": true,
-      "imagen": "/Blog/images/semana8/Nvidia.png"
+      "imagen": "/Blog/images/semana8/Nvidia.webp"
     }
     ,
 
@@ -161,7 +161,7 @@
       "fecha": "2025-10-01",
       "ruta": "/Blog/articles/semana9/articulo1_9.html",
       "visible": true,
-      "imagen": "/Blog/images/semana9/openai.png"
+      "imagen": "/Blog/images/semana9/openai.webp"
     }
     ,
     {
@@ -170,7 +170,7 @@
       "fecha": "2025-10-02",
       "ruta": "/Blog/articles/semana9/articulo2_9.html",
       "visible": true,
-      "imagen": "/Blog/images/semana9/npm.png"
+      "imagen": "/Blog/images/semana9/npm.webp"
     }
     ,
 
@@ -180,7 +180,7 @@
       "fecha": "2025-10-07",
       "ruta": "/Blog/articles/semana10/articulo1_10.html",
       "visible": true,
-      "imagen": "/Blog/images/semana10/vaca.png"
+      "imagen": "/Blog/images/semana10/vaca.webp"
     }
     ,
     {
@@ -189,7 +189,7 @@
       "fecha": "2025-10-10",
       "ruta": "/Blog/articles/semana10/articulo2_10.html",
       "visible": true,
-      "imagen": "/Blog/images/semana10/bicho.png"
+      "imagen": "/Blog/images/semana10/bicho.webp"
     }
     ,
 
