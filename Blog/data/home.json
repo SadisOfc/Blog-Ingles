@@ -175,21 +175,21 @@
     ,
 
     {
-      "titulo": "Semana 10, titulo 1",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "titulo": "Week 10. Precision Livestock Farming and AI Collars",
+      "resumen": "The wearables help dairy farmers gather more data so their animals are happier and produce more milk",
       "fecha": "2025-10-07",
       "ruta": "/Blog/articles/semana10/articulo1_10.html",
-      "visible": false,
-      "imagen": "/Blog/images/semana8/Nvidia.png"
+      "visible": true,
+      "imagen": "/Blog/images/semana10/vaca.png"
     }
     ,
     {
-      "titulo": "Semana 10, titulo 2",
-      "resumen": "deben modificar este json y el otro, visible debe ser true para que se vea",
+      "titulo": "Week 10. The Smartphone War Against Robocalls",
+      "resumen": "We Finally Have Free Anti-Robocall Tools That Work",
       "fecha": "2025-10-10",
       "ruta": "/Blog/articles/semana10/articulo2_10.html",
-      "visible": false,
-      "imagen": "/Blog/images/semana8/Nvidia.png"
+      "visible": true,
+      "imagen": "/Blog/images/semana10/bicho.png"
     }
     ,
 

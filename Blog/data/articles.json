@@ -3,7 +3,7 @@
     "titulo": "Último artículo",
     "resumen": "",
     "fecha": "En ruta deben agregar el path del último artículo que crean, o que debe estar en el blog según el calendario",
-    "ruta": "/Blog/articles/semana9/articulo2_9.html"
+    "ruta": "/Blog/articles/semana10/articulo2_10.html"
   },
 
   "semanas": {
@@ -155,18 +155,18 @@
     ],
     "semana10": [
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
+        "titulo": "Precision Livestock Farming and AI Collars",
+        "resumen": "The wearables help dairy farmers gather more data so their animals are happier and produce more milk",
         "fecha": "2025-10-07",
         "ruta": "/Blog/articles/semana10/articulo1_10.html",
-        "visible":false
+        "visible":true
       },
       {
-        "titulo": "Por verse",
-        "resumen": "Incompleto",
+        "titulo": "The Smartphone War Against Robocalls",
+        "resumen": "We Finally Have Free Anti-Robocall Tools That Work",
         "fecha": "2025-10-10",
         "ruta": "/Blog/articles/semana10/articulo2_10.html",
-        "visible":false
+        "visible":true
       }
     ],
 
